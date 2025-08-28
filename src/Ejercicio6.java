@@ -18,6 +18,7 @@ public class Ejercicio6 {
                 break;
             case 7:
                 System.out.println("Excelente");
+                break;
             default:
                 System.out.println("Nota no valida");
 
